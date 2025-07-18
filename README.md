@@ -6,7 +6,11 @@ A new Flutter project.
 
 # Demo image
 
-
+![image](C:\Users\Lenovo\Downloads\Video Player\Video_player_App_Flutter\image1)
+![image](C:\Users\Lenovo\Downloads\Video Player\Video_player_App_Flutter\image2)
+![image](C:\Users\Lenovo\Downloads\Video Player\Video_player_App_Flutter\image3)
+![image](C:\Users\Lenovo\Downloads\Video Player\Video_player_App_Flutter\image4)
+![image](C:\Users\Lenovo\Downloads\Video Player\Video_player_App_Flutter\image5)
 
 
 This project is a starting point for a Flutter application.
