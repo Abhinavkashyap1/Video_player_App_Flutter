@@ -12,6 +12,15 @@
 .swiftpm/
 migrate_working_dir/
 
+# build
+.dart_tool
+.idea
+.vscode
+.packages
+.pub-cache
+ios/Pods
+android/.gradle/
+
 # IntelliJ related
 *.iml
 *.ipr
