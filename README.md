@@ -6,11 +6,11 @@ A new Flutter project.
 
 # Demo image
 
-![image](image1.jpeg.)
-![image](image2.jpeg.)
-![image](image3.jpeg.)
-![image](image4.jpeg.)
-![image](image5.jpeg.)
+![image](image 1.JPEG)
+![image](image 2.JPEG)
+![image](image 3.JPEG)
+![image](image 4.JPEG)
+![image](image 5.JPEG)
 
 
 This project is a starting point for a Flutter application.
