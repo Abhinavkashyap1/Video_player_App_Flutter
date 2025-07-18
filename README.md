@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-# Demo image
-
-![image](image 1.JPEG)
-![image](image 2.JPEG)
-![image](image 3.JPEG)
-![image](image 4.JPEG)
-![image](image 5.JPEG)
 
 
 This project is a starting point for a Flutter application.
